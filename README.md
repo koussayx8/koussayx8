@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.istockphoto.com/vector/devops-and-devsecops-conceptual-illustration-gm1423173157-468232584" alt="DevOps Cloud Engineer Banner" width="100%">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbigsteptech.com%2Fservices%2Fcloud-devops&psig=AOvVaw32Wc06fTdfTuBFatSb_KG0&ust=1746451338870000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwj9u9Gu9ImNAxXnZEEAHRMyHYgQjRx6BAgAEBk" alt="DevOps Cloud Engineer Banner" width="100%">
 </p>
 
 <h1 align="center">Hi there 👋, I'm <b>Koussay Belhouchet</b></h1>
