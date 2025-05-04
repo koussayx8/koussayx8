@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/koussayx8/koussayx8/main/assets/banner.jpg" alt="Banner" width="100%">
+  <img src="https://i.imgur.com/l49aYS3.png" alt="DevOps Cloud Engineer Banner" width="100%">
 </p>
 
 <h1 align="center">Hi there 👋, I'm <b>Koussay Belhouchet</b></h1>
@@ -103,7 +103,7 @@
 ## 📈 Visitors
 
 <p align="center">
-(https://komarev.com/ghpvc/?username=koussayx8&color=blueviolet&style=flat)
+  <img src="https://komarev.com/ghpvc/?username=koussayx8&color=blueviolet&style=flat" />
 </p>
 
 ---
