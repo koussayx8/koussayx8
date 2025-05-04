@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/koussayx8/koussayx8/assets/your-custom-banner.jpg" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/koussayx8/koussayx8/main/assets/banner.jpg" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi there 👋, I'm <b>Koussay Belhouchet</b></h1>
@@ -103,7 +103,7 @@
 ## 📈 Visitors
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=koussayx8&icon=5&color=4" />
+![Profile views](https://komarev.com/ghpvc/?username=koussayx8&color=blueviolet&style=flat)
 </p>
 
 ---
