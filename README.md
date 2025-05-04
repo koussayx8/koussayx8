@@ -103,7 +103,7 @@
 ## 📈 Visitors
 
 <p align="center">
-![Profile views](https://komarev.com/ghpvc/?username=koussayx8&color=blueviolet&style=flat)
+(https://komarev.com/ghpvc/?username=koussayx8&color=blueviolet&style=flat)
 </p>
 
 ---
